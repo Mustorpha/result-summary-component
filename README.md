@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-boostrap-6yskpcRRZS)
-- Live Site URL: [Add live site URL here](https://result-summar-component.netlify.app/)
+- Solution URL: [View here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-boostrap-6yskpcRRZS)
+- Live Site URL: [View here](https://result-summar-component.netlify.app/)
 
 ## My process
 
